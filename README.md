@@ -44,6 +44,7 @@ For a complete guide on how to import a Voiceflow project, check out the Voicefl
 [Nadine Jackson - *Collaborator* - LinkedIn](https://www.linkedin.con/in/nadinejackson1/)
 
 Presentation: [Youtube](https://youtu.be/F9de9zydfQ4)
+
 Landing: [Instagram](https://www.instagram.com/newyou.ai/)
 
 ### Acknowledgments
