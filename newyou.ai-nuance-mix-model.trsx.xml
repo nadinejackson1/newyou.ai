@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<project xmlns:nuance="https://developer.nuance.com/mix/nlu/trsx" xml:lang="eng-USA" nuance:version="2.5">
+  <metadata>
+    <entry key="short_name">newyou.ai</entry>
+    <entry key="source">Voiceflow</entry>
+    <entry key="voiceflow_platform_type">whatsapp</entry>
+    <entry key="voiceflow_project_id">644d8194c20a470007df07d1</entry>
+  </metadata>
+  <ontology>
+    <intents>
+      <intent name="yes_VF_YES"/>
+      <intent name="no_VF_NO"/>
+    </intents>
+  </ontology>
+  <samples>
+    <sample intentref="yes_VF_YES" count="1">yes</sample>
+    <sample intentref="yes_VF_YES" count="1">yea</sample>
+    <sample intentref="yes_VF_YES" count="1">ok</sample>
+    <sample intentref="yes_VF_YES" count="1">okay</sample>
+    <sample intentref="yes_VF_YES" count="1">yup</sample>
+    <sample intentref="yes_VF_YES" count="1">ya</sample>
+    <sample intentref="yes_VF_YES" count="1">sure</sample>
+    <sample intentref="no_VF_NO" count="1">no</sample>
+    <sample intentref="no_VF_NO" count="1">nope</sample>
+    <sample intentref="no_VF_NO" count="1">nay</sample>
+    <sample intentref="no_VF_NO" count="1">nah</sample>
+    <sample intentref="no_VF_NO" count="1">no way</sample>
+    <sample intentref="no_VF_NO" count="1">negative</sample>
+  </samples>
+</project>

@@ -1,0 +1,14 @@
+MlDomainName,MlIntentName,Utterance,Language
+Documentation_Intents,yes,yes,en-US
+Documentation_Intents,yes,yea,en-US
+Documentation_Intents,yes,ok,en-US
+Documentation_Intents,yes,okay,en-US
+Documentation_Intents,yes,yup,en-US
+Documentation_Intents,yes,ya,en-US
+Documentation_Intents,yes,sure,en-US
+Documentation_Intents,no,no,en-US
+Documentation_Intents,no,nope,en-US
+Documentation_Intents,no,nay,en-US
+Documentation_Intents,no,nah,en-US
+Documentation_Intents,no,no way,en-US
+Documentation_Intents,no,negative,en-US
